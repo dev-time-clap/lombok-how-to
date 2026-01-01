@@ -1,10 +1,14 @@
-![dev|time Logo](../../logo/dev-time-profil-logo-simple-192x192.png?raw=true "dev|time Logo")
+![dev|time Logo](/logo/dev-time-profil-logo-simple-192x192.png?raw=true "dev|time Logo")
 
-# Spring Initializr
+# Project Lombok
 
-In dieser Episode zeige ich dir, wie du mit dem Spring Initializr mit wenigen Klicks ein Spring Boot Projekt-Grundgerüst erstellen und imporieren kannst.
+In diesem Kurs stelle ich dir das Project Lombok vor und wie du mit verschiedenen Annotationen eine Menge Boilerplate Code vermeiden kannst.
 
-Hier geht es zum YouTube-Video: [https://youtu.be/nKW8owLfrUw](https://youtu.be/nKW8owLfrUw)
+## YouTube Videokurs
 
-Lust auf mehr Spring Boot?
+|Titel|Untertitel|Link|
+|-----|----------|----|
+|Project Lombok - So einfach vermeidest du Boilerplate Code und entwickelst 10x schneller|Setup in Eclipse & IntelliJ|geplant: 01.01.2025 - 17:00|
+
+Lust auf mehr Lombok Infos?
 Dann abonnieren nicht vergessen!
