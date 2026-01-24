@@ -37,5 +37,4 @@ public class GetterSetterDemo {
     //        .author("Morrigan");
     //    log.info("bookData: {}", bookData);
   }
-
 }
