@@ -13,7 +13,7 @@ In diesem Kurs stelle ich dir das Project Lombok vor und wie du mit verschiedene
 |@NonNull|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode003-nonnull)|▶️ [zum Video](https://www.youtube.com/watch?v=lqkWjK4ilu0&list=PLtIgRse9dGXiSzH-kh9sqoLzc35QQbqSp&index=3)|
 |@Cleanup|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode004-cleanup)|▶️ [zum Video](https://www.youtube.com/watch?v=WQMG60XI_xw&list=PLtIgRse9dGXiSzH-kh9sqoLzc35QQbqSp&index=4)|
 |@Getter @Setter|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode005-getter-setter)|▶️ ab 29.01.2026 verfügbar|
-|@ToString|🧩 in Arbeit|▶️ ab 05.02.2026 verfügbar|
+|@ToString|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode006-tostring)|▶️ ab 05.02.2026 verfügbar|
 |@EqualsAndHashCode|🧩 in Arbeit|▶️ ab 12.02.2026 verfügbar|
 |@NoArgsConstructor<br>@RequiredArgsConstructor<br>@AllArgsConstructor|🧩 in Arbeit|▶️ ab 19.02.2026 verfügbar|
 |@Data|🧩 in Arbeit|▶️ ab 26.02.2026 verfügbar|
