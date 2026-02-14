@@ -5,17 +5,17 @@
 In diesem Kurs stelle ich dir das Project Lombok vor und wie du mit verschiedenen Annotationen eine Menge Boilerplate Code vermeiden kannst.
 
 ## YouTube Videokurs
-
+https://youtu.be/RKd5wV455KQ
 |Thema|Github Beispiel|Video|
 |-----|----------|---------|
 |Setup in Eclipse & IntelliJ|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode001-setup)|▶️ [zum Video](https://www.youtube.com/watch?v=hQGQ2GvGwRw&list=PLtIgRse9dGXiSzH-kh9sqoLzc35QQbqSp&index=1)|
 |val & var|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode002-val-var)|▶️ [zum Video](https://www.youtube.com/watch?v=lqkWjK4ilu0&list=PLtIgRse9dGXiSzH-kh9sqoLzc35QQbqSp&index=2)|
 |@NonNull|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode003-nonnull)|▶️ [zum Video](https://www.youtube.com/watch?v=lqkWjK4ilu0&list=PLtIgRse9dGXiSzH-kh9sqoLzc35QQbqSp&index=3)|
 |@Cleanup|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode004-cleanup)|▶️ [zum Video](https://www.youtube.com/watch?v=WQMG60XI_xw&list=PLtIgRse9dGXiSzH-kh9sqoLzc35QQbqSp&index=4)|
-|@Getter @Setter|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode005-getter-setter)|▶️ ab 29.01.2026 verfügbar|
-|@ToString|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode006-tostring)|▶️ ab 05.02.2026 verfügbar|
-|@EqualsAndHashCode|🧩 in Arbeit|▶️ ab 12.02.2026 verfügbar|
-|@NoArgsConstructor<br>@RequiredArgsConstructor<br>@AllArgsConstructor|🧩 in Arbeit|▶️ ab 19.02.2026 verfügbar|
+|@Getter @Setter|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode005-getter-setter)|▶️ [zum Video](https://www.youtube.com/watch?v=J8aJNGbDTKg&list=PLtIgRse9dGXiSzH-kh9sqoLzc35QQbqSp&index=5)|
+|@ToString|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode006-tostring)|▶️ [zum Video](https://www.youtube.com/watch?v=qmMQsmoQaaM&list=PLtIgRse9dGXiSzH-kh9sqoLzc35QQbqSp&index=6)|
+|@EqualsAndHashCode|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode007-hashcode-equals)|▶️ [zum Video](https://www.youtube.com/watch?v=RKd5wV455KQ&list=PLtIgRse9dGXiSzH-kh9sqoLzc35QQbqSp&index=7)|
+|@NoArgsConstructor<br>@RequiredArgsConstructor<br>@AllArgsConstructor|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode008-generate-constructor)|▶️ ab 19.02.2026 verfügbar|
 |@Data|🧩 in Arbeit|▶️ ab 26.02.2026 verfügbar|
 |@Value|🧩 in Arbeit|▶️ ab 05.03.2026 verfügbar|
 |@Builder|🧩 in Arbeit|▶️ ab 12.03.2026 verfügbar|
