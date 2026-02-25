@@ -16,25 +16,24 @@ https://youtu.be/RKd5wV455KQ
 |@ToString|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode006-tostring)|▶️ [zum Video](https://www.youtube.com/watch?v=qmMQsmoQaaM&list=PLtIgRse9dGXiSzH-kh9sqoLzc35QQbqSp&index=6)|
 |@EqualsAndHashCode|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode007-hashcode-equals)|▶️ [zum Video](https://www.youtube.com/watch?v=RKd5wV455KQ&list=PLtIgRse9dGXiSzH-kh9sqoLzc35QQbqSp&index=7)|
 |@NoArgsConstructor<br>@RequiredArgsConstructor<br>@AllArgsConstructor|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode008-generate-constructor)|▶️ ab 19.02.2026 verfügbar|
-|@Data|🧩 in Arbeit|▶️ ab 26.02.2026 verfügbar|
-|@Value|🧩 in Arbeit|▶️ ab 05.03.2026 verfügbar|
-|@Builder|🧩 in Arbeit|▶️ ab 12.03.2026 verfügbar|
-|@SneakyThrows|🧩 in Arbeit|▶️ ab 19.03.2026 verfügbar|
-|@Synchronized|🧩 in Arbeit|▶️ ab 26.03.2026 verfügbar|
-|@Locked|🧩 in Arbeit|▶️ ab 02.04.2026 verfügbar|
-|@Log / @Slf4j / @CustomLog & Co.|🧩 in Arbeit|▶️ ab 09.04.2026 verfügbar|
-|Delombok|🧩 in Arbeit|▶️ ab 16.04.2026 verfügbar|
-|Experimental: @Accessors|🧩 in Arbeit|▶️ ab 23.04.2026 verfügbar|
-|Experimental: @ExtensionMethod|🧩 in Arbeit|▶️ ab 30.04.2026 verfügbar|
-|Experimental: @FieldDefaults|🧩 in Arbeit|▶️ ab 07.05.2026 verfügbar|
-|Experimental: onMethod=<br>onConstructor=<br>onParam=|🧩 in Arbeit|▶️ ab 14.05.2026 verfügbar|
-|Experimental: @UtilityClass|🧩 in Arbeit|▶️ ab 21.05.2026 verfügbar|
-|Experimental: @Helper|🧩 in Arbeit|▶️ ab 28.05.2026 verfügbar|
-|Experimental: @FieldNameConstants|🧩 in Arbeit|▶️ ab 04.06.2026 verfügbar|
-|Experimental: @SuperBuilder|🧩 in Arbeit|▶️ ab 11.06.2026 verfügbar|
-|Experimental: @Tolerate|🧩 in Arbeit|▶️ ab 18.06.2026 verfügbar|
-|Experimental: @Jacksonized|🧩 in Arbeit|▶️ ab 25.06.2026 verfügbar|
-|Experimental: @StandardException|🧩 in Arbeit|▶️ ab 02.07.2026 verfügbar|
+|@Data & @Value|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode009-data-value)|▶️ ab 26.02.2026 verfügbar|
+|@Builder|🧩 in Arbeit|▶️ ab 05.03.2026 verfügbar|
+|@SneakyThrows|🧩 in Arbeit|▶️ ab 12.03.2026 verfügbar|
+|@Synchronized|🧩 in Arbeit|▶️ ab 19.03.2026 verfügbar|
+|@Locked|🧩 in Arbeit|▶️ ab 26.03.2026 verfügbar|
+|@Log / @Slf4j / @CustomLog & Co.|🧩 in Arbeit|▶️ ab 02.04.2026 verfügbar|
+|Delombok|🧩 in Arbeit|▶️ ab 09.04.2026 verfügbar|
+|Experimental: @Accessors|🧩 in Arbeit|▶️ ab 16.04.2026 verfügbar|
+|Experimental: @ExtensionMethod|🧩 in Arbeit|▶️ ab 23.04.2026 verfügbar|
+|Experimental: @FieldDefaults|🧩 in Arbeit|▶️ ab 30.04.2026 verfügbar|
+|Experimental: onMethod=<br>onConstructor=<br>onParam=|🧩 in Arbeit|▶️ ab 07.05.2026 verfügbar|
+|Experimental: @UtilityClass|🧩 in Arbeit|▶️ ab 14.05.2026 verfügbar|
+|Experimental: @Helper|🧩 in Arbeit|▶️ ab 21.05.2026 verfügbar|
+|Experimental: @FieldNameConstants|🧩 in Arbeit|▶️ ab 28.05.2026 verfügbar|
+|Experimental: @SuperBuilder|🧩 in Arbeit|▶️ ab 04.06.2026 verfügbar|
+|Experimental: @Tolerate|🧩 in Arbeit|▶️ ab 11.06.2026 verfügbar|
+|Experimental: @Jacksonized|🧩 in Arbeit|▶️ ab 18.06.2026 verfügbar|
+|Experimental: @StandardException|🧩 in Arbeit|▶️ ab 25.06.2026 verfügbar|
 
 Lust auf mehr Lombok Infos?
 
