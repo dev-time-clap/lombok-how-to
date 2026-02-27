@@ -1,13 +1,13 @@
-package de.devtime.examples.lombok.constructor;
+package de.devtime.examples.lombok.datavalue;
 
 import java.time.LocalDate;
 
-import lombok.Data;
+import lombok.Value;
 
-@Data(staticConstructor = "of")
-public class BookDataLombokData {
+@Value(staticConstructor = "of")
+public class BookDataLombokValue {
 
-  private final String isbn;
+  private String isbn;
   private String title;
   private String subtitle;
   private String summary;

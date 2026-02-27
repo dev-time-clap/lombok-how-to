@@ -1,4 +1,4 @@
-package de.devtime.examples.lombok.constructor;
+package de.devtime.examples.lombok.datavalue;
 
 import java.time.LocalDate;
 import java.util.Objects;

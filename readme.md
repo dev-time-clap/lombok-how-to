@@ -15,9 +15,9 @@ https://youtu.be/RKd5wV455KQ
 |@Getter @Setter|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode005-getter-setter)|▶️ [zum Video](https://www.youtube.com/watch?v=J8aJNGbDTKg&list=PLtIgRse9dGXiSzH-kh9sqoLzc35QQbqSp&index=5)|
 |@ToString|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode006-tostring)|▶️ [zum Video](https://www.youtube.com/watch?v=qmMQsmoQaaM&list=PLtIgRse9dGXiSzH-kh9sqoLzc35QQbqSp&index=6)|
 |@EqualsAndHashCode|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode007-hashcode-equals)|▶️ [zum Video](https://www.youtube.com/watch?v=RKd5wV455KQ&list=PLtIgRse9dGXiSzH-kh9sqoLzc35QQbqSp&index=7)|
-|@NoArgsConstructor<br>@RequiredArgsConstructor<br>@AllArgsConstructor|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode008-generate-constructor)|▶️ ab 19.02.2026 verfügbar|
-|@Data & @Value|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode009-data-value)|▶️ ab 26.02.2026 verfügbar|
-|@Builder|🧩 in Arbeit|▶️ ab 05.03.2026 verfügbar|
+|@NoArgsConstructor<br>@RequiredArgsConstructor<br>@AllArgsConstructor|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode008-generate-constructor)|▶️ [zum Video](https://www.youtube.com/watch?v=Y3yHCZN7KUw&list=PLtIgRse9dGXiSzH-kh9sqoLzc35QQbqSp&index=8)|
+|@Data & @Value|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode009-data-value)|▶️ [zum Video](https://www.youtube.com/watch?v=wgs0giixFXo&list=PLtIgRse9dGXiSzH-kh9sqoLzc35QQbqSp&index=8)|
+|@Builder|🧩 [zum Code-Beispiel](https://github.com/dev-time-clap/lombok-how-to/tree/main/lombok-episode010-builder)|▶️ ab 05.03.2026 verfügbar|
 |@SneakyThrows|🧩 in Arbeit|▶️ ab 12.03.2026 verfügbar|
 |@Synchronized|🧩 in Arbeit|▶️ ab 19.03.2026 verfügbar|
 |@Locked|🧩 in Arbeit|▶️ ab 26.03.2026 verfügbar|

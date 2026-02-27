@@ -1,11 +1,13 @@
-package de.devtime.examples.lombok.constructor;
+package de.devtime.examples.lombok.builder;
 
 import java.time.LocalDate;
 
+import lombok.Builder;
 import lombok.Value;
 
-@Value(staticConstructor = "of")
-public class BookDataLombokValue {
+@Value
+@Builder(setterPrefix = "with", toBuilder = true)
+public class BookDto {
 
   private String isbn;
   private String title;
